@@ -1,0 +1,11 @@
+body {
+    background-color: #FFABCC;
+    font-family: 'Lato', sans-serif;
+}
+<h2>.center-text {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
